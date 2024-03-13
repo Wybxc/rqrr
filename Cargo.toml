@@ -33,5 +33,5 @@ image = { version = "0.24" }
 
 [dependencies]
 g2p = "1.0"
-lru = "0.9"
+lru = "0.12.3"
 image = { version = "0.24", optional = true, default-features = false }
